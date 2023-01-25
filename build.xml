@@ -69,11 +69,11 @@
         <include name="org.restlet.ext.jsslutils-2.3.2.jar"/>
         <include name="org.simpleframework.jar"/>
         <include name="org.jsslutils.jar"/>
-        <include name="netty-all-4.0.31.Final.jar"/>
+        <include name="netty-all-4.1.66.Final.jar"/>
         <include name="args4j-2.0.16.jar"/>
         <include name="concurrentlinkedhashmap-lru-1.2.jar"/>
         <include name="jython-2.5.2.jar"/>
-        <include name="libthrift-0.9.0.jar"/>
+        <include name="libthrift-0.14.1.jar"/>
         <include name="guava-20.0.jar" />
         <include name="findbugs-annotations-2.0.1.jar" />
         <include name="findbugs-jsr305-2.0.1.jar" />
